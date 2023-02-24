@@ -1,0 +1,29 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color:#66BFBF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    color:#66BFBF;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p, table, ul {
+    font-family:Arial, Helvetica, sans-serif;
+}
